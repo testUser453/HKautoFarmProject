@@ -16,6 +16,9 @@ The development of the HKautoFarmProject was fairly simple. We used a demo examp
 
 ## Pictures:
 
+
+The following image is the first prototype of this project:
+
 <img src="https://github.com/testUser453/HKautoFarmProject/blob/main/HkpictureImg.jpg?raw=true" alt="HkpictureImg">
 
 
