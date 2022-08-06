@@ -11,7 +11,7 @@ The purpose of the project is to create a foundation on how future DIY homemade 
 
 ## How it was developed:
 
-The development of the HKautoFarmProject was fairly simple. We used a demo example code from a custom Sparkfun environmental sensor library and got readings of the humidity of our dispenser/tank. In order to get the actual dispenser contraption to work automatically, we had to develop a Lego Mindstorms EV3 program which ran the motor in order to dispense water into the plant's pot.
+The development of the HKautoFarmProject was fairly simple. We used a demo example code from a custom Sparkfun environmental sensor library and got readings of the humidity of our dispenser/tank. In order to get the actual dispenser contraption to work automatically, we had to develop a Lego Mindstorms EV3 program which ran the motor in order to dispense water into the plant's pot. The Lego Mindstorms Code is called HKProject.lmsp and can be found in this Github repository in the files section up above.
 
 
 ## Pictures:
@@ -20,6 +20,8 @@ The development of the HKautoFarmProject was fairly simple. We used a demo examp
 The following image is the first prototype of this project:
 
 <img src="https://github.com/testUser453/HKautoFarmProject/blob/main/HkpictureImg.jpg?raw=true" alt="HkpictureImg">
+
+
 
 
 
