@@ -16,7 +16,7 @@ The development of the HKautoFarmProject was fairly simple. We used a demo examp
 
 ## Pictures:
 
-<img src="GOPRO036.jpg" alt="HK image">
+<img src="GOPR0036.JPG alt="HK image">
 
 
 
