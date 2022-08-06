@@ -6,7 +6,9 @@ In simple terms, the HKautoFarmProject is an automated water farm that uses the 
 
 ## The purpose of the project:
 
-The purpose of the project is to create a foundation on how future DIY homemade autofarms can be created using the items around your home. 
+The purpose of the project is to create a foundation on how future DIY homemade autofarms can be created using the items around your home. These autofarms will help increase the amount of greenery in our world as the plant is automatically maintained by automated robotic devices.
+
+
 
 
 
