@@ -2,7 +2,7 @@
 
 ## What is the HKautoFarmProject?
 
-In simple terms, the HKautoFarmProject is an automated water farm that uses the <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-intelligent-brick/45500">Lego Mindstorms EV3 brick</a> and a Lego Mindstorms EV3 Motor in order to dispense water from a water tank into a cup in order to hydrate the plant in the cup automatically with no human involvement. Built into the water tank there is a <a href="https://www.sparkfun.com/products/15663">Sparkfun Thing Plus ESP32 Wroom</a> board and the <a href="https://www.sparkfun.com/products/19096">SparkFun Environmental Sensor - BME688 (Qwiic)</a> to take humidity readings from the water tank which dispenses water directly to the plant. 
+In simple terms, the HKautoFarmProject is an automated water farm that uses the <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-intelligent-brick/45500">Lego Mindstorms EV3 brick</a> and a Lego Mindstorms EV3 Motor in order to dispense water from a water tank into a cup in order to hydrate the plant in the cup automatically with no human involvement. Built into the water tank there is a <a href="https://www.sparkfun.com/products/15663">Sparkfun Thing Plus ESP32 Wroom board</a> and the <a href="https://www.sparkfun.com/products/19096">SparkFun Environmental Sensor - BME688 (Qwiic)</a> to take humidity readings from the water tank which dispenses water directly to the plant. 
 
 ## The purpose of the project:
 
@@ -21,6 +21,14 @@ The following image is the first prototype of this project:
 
 <img src="https://github.com/testUser453/HKautoFarmProject/blob/main/HkpictureImg.jpg?raw=true" alt="HkpictureImg">
 
+
+## Technology used in this project:
+
+### Sparkfun Products:
+For this project we mainly used to Sparkfun products. Number one is the <a href="https://www.sparkfun.com/products/15663">Sparkfun Thing Plus</a> and the <a href="https://www.sparkfun.com/products/19096">SparkFun Environmental Sensor</a>. These devices were used in order to read the humidity values and print them to the monitor screen.
+
+### Lego Products:
+For this project we used the <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-intelligent-brick/45500">Lego Mindstorms EV3 brick</a> and a Lego Mindstorms EV3 motor (could not find the link for reference to original website). These electronics were used to open and close the water dispense.
 
 
 
