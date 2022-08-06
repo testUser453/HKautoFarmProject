@@ -9,6 +9,10 @@ In simple terms, the HKautoFarmProject is an automated water farm that uses the 
 The purpose of the project is to create a foundation on how future DIY homemade autofarms can be created using the items around your home. These autofarms will help increase the amount of greenery in our world as the plant is automatically maintained by automated robotic devices.
 
 
+## How it was developed:
+
+The development of the HKautoFarmProject was fairly simple. We used a demo example code from a custom Sparkfun environmental sensor library and got readings of the humidity of our dispenser/tank. In order to get the actual dispenser contraption to work automatically, we had to develop a Lego Mindstorms EV3 program which ran the motor in order to dispense water into the plant's pot.
+
 
 
 
