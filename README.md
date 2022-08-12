@@ -25,10 +25,10 @@ The following image is the first prototype of this project:
 ## Technology used in this project:
 
 ### Sparkfun Products:
-For this project we mainly used to Sparkfun products. Number one is the <a href="https://www.sparkfun.com/products/15663">Sparkfun Thing Plus</a> and the <a href="https://www.sparkfun.com/products/19096">SparkFun Environmental Sensor</a>. These devices were used in order to read the humidity values and print them to the monitor screen.
+For this project we mainly used two Sparkfun products. Number one is the <a href="https://www.sparkfun.com/products/15663">Sparkfun Thing Plus</a> and number two is the <a href="https://www.sparkfun.com/products/19096">SparkFun Environmental Sensor</a>. These devices were used in order to read the humidity values and print them to the monitor screen.
 
 ### Lego Products:
-For this project we used the <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-intelligent-brick/45500">Lego Mindstorms EV3 brick</a> and a Lego Mindstorms EV3 motor (could not find the link for reference to original website). These electronics were used to open and close the water dispense.
+For this project we used the <a href="https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-intelligent-brick/45500">Lego Mindstorms EV3 brick</a> and a Lego Mindstorms EV3 motor (could not find the link for reference to original website). These electronics were used to open and close the water dispenser.
 
 
 
